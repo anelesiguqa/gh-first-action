@@ -8,3 +8,6 @@ jobs:
         run: echo "Hello World!"
       - name: Print goodbye
         run: echo "Done - bye"
+      -  run: |
+              echo "Hi there"
+              echo "I love my motheer"
